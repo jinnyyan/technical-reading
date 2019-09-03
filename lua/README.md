@@ -3,3 +3,4 @@
 
 ## Tools to play with
 * 2D Game Framework <http://love2d.org/>
+* Fengari: Lua for the browser <https://fengari.io/>
